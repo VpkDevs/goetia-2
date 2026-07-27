@@ -35,7 +35,7 @@ ahash = { version = "0.8", default-features = false, features = ["std", "serde"]
 bytemuck = { version = "1", features = ["derive"] }
 wgpu = "22.1"
 winit = { version = "0.29", features = ["rwh_06"] }
-pollster = "0.3"
+pollster = "1.0"
 rodio = "0.19"
 log = "0.4"
 
