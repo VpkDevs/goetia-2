@@ -28,7 +28,7 @@ goetia = { path = "crates/goetia" }
 
 glam = { version = "0.29", features = ["serde", "bytemuck"] }
 serde = { version = "1", features = ["derive"] }
-ron = "0.8"
+ron = "0.12"
 # default-features off: no getrandom/runtime-rng — deterministic hasher keys,
 # and avoids raw-dylib dlltool trouble on windows-gnu.
 ahash = { version = "0.8", default-features = false, features = ["std", "serde"] }
