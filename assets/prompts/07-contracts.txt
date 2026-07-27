@@ -1,0 +1,24 @@
+BATCH 07 — CONTRACT SEALS (9)
+Pacts with real drawbacks. Visual motif: a WAX SEAL / SIGILLUM stamped on dark
+parchment, tinted to its demon. Consistent format across all nine.
+512x512 -> 128x128. Append [ICON].
+Filename: engine-ready/icons/contract_<id>.png
+
+Shared prompt stem:
+  "a broken wax seal stamped on near-black parchment, ornate sigillum,
+   ceremonial and legal-occult, <MOTIF>, ACCENT_COLOR=<COLOR>, [ICON]"
+
+--- VASSAGO (crimson) ---
+1. contract_appraisal.png  — MOTIF: a jeweler's loupe over an open eye, appraising
+2. contract_veiled_pact.png — MOTIF: a lifted veil revealing a second smaller seal beneath
+3. contract_index_tax.png   — MOTIF: a ledger column with one entry violently struck out
+
+--- ANDRAS (sickly gold) ---
+4. contract_discord_pact.png — MOTIF: a seal split cleanly down the middle, halves slightly offset
+5. contract_schism.png       — MOTIF: a cathedral rose-window fracturing into two mirrored halves
+6. contract_warfeast.png     — MOTIF: a banquet plate holding a crossed sword and fork
+
+--- BUER (spectral cyan) ---
+7. contract_blight_communion.png — MOTIF: a chalice pouring dark rot that becomes a flowering vine
+8. contract_wheel_rider.png      — MOTIF: a small figure seated inside a spinning spoked wheel
+9. contract_gardener.png         — MOTIF: a hand planting a seed into an open wound in the earth

@@ -1,0 +1,70 @@
+BATCH 08 — MARKETING / STORE (12)  *** START HERE ***
+Zero engine work. Highest commercial return. This is what a buyer sees BEFORE
+they ever run the game.
+
+TOOL ROUTING (matters a lot here):
+  * Wordmark / any image with TEXT  -> Ideogram (best text rendering) or Recraft
+  * Logo as scalable vector         -> Recraft (true SVG output)
+  * Big illustrations               -> local FLUX.1-schnell / SDXL, or Firefly
+  * Screenshots                     -> DO NOT GENERATE. Capture in-game (step 9).
+
+--- 1. logo_demonicon.svg / .png — THE WORDMARK (do this first) ---
+the word "DEMONICON" as a game logo wordmark, tall condensed gothic-occult
+capitals, sharp angular serifs like engraved obsidian, a subtle sigil replacing
+the O, bone-white letterforms with a thin crimson inner glow, on pure black,
+symmetrical, high contrast, vector-clean, no background elements
+[Ideogram or Recraft. Generate 4, pick 1, vectorize in Inkscape.]
+
+--- 2. keyart_main.png — 2560x1440 — THE hero illustration ---
+a lone robed figure standing at the center of a vast black-marble infernal
+archive, hundreds of glowing violet projectiles orbiting them in spiral arcs,
+towering dark bookshelves receding into void, a great crimson veiled demon
+looming in the background haze, isometric-ish dramatic angle, only emissive
+light sources, heavy bloom, ACCENT_COLOR=crimson and violet, [KEYART]
+
+--- 3. capsule_main.png — 616x353 (Steam main capsule) ---
+crop/recompose of the key art with clear empty space in the upper third for the
+logo overlay, subject left-of-center, [KEYART]
+
+--- 4. capsule_small.png — 462x174 ---
+extreme horizontal crop, single strong silhouette + emissive glow only, must
+read at thumbnail size, [KEYART]
+
+--- 5. capsule_header.png — 460x215 ---
+the robed figure mid-cast, one huge hellfire nova filling the right half,
+[KEYART]
+
+--- 6. library_hero.png — 3840x1240 ---
+ultra-wide: the three demon silhouettes (veiled archivist / armored herald /
+great wheel) standing in a row in near-black space, each lit only by their own
+signature color — crimson, sickly gold, spectral cyan — vast empty floor,
+[KEYART]
+
+--- 7. page_background.png — 1438x810 ---
+a subtle near-black tiling texture of engraved occult ledger-script and faint
+black marble veining, very low contrast, meant to sit BEHIND text, no focal
+point, [KEYART]
+
+--- 8. icon_app.png — 1024x1024 (downscale to 256/64/32/16) ---
+a single app icon: an occult seal combining a closed eye and a spoked wheel,
+bone-white on near-black, extremely bold and simple, must read at 16 pixels,
+centered, no text, [ICON]
+
+--- 9. cover_itch.png — 630x500 ---
+the robed figure from behind facing a huge glowing summoning circle, vertical
+composition, [KEYART]
+
+--- 10. banner_social.png — 1500x500 ---
+wide banner: a row of glowing projectiles arcing across pure black from left to
+right, ending in a burst, minimal, room for logo on the left, [KEYART]
+
+--- 11. splash_vassago.png / splash_andras.png / splash_buer.png — 1920x1080 x3 ---
+realm splash cards, one per demon. A single iconic environment shot of that
+realm with its seal (batch 06) centered, lit only by its signature color:
+  vassago — infinite black-marble archive, crimson
+  andras  — collapsing gothic cathedral, sickly gold
+  buer    — rotating ring-garden half blooming half blighted, spectral cyan
+[KEYART]
+
+--- 12. presskit_sheet — layout, not illustration ---
+Assemble in Inkscape/Canva from assets above. Not an AI generation task.

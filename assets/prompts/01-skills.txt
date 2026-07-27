@@ -1,0 +1,51 @@
+BATCH 01 — SKILL ICONS (8)
+Append [ICON] block from 00-STYLE.txt. Use [ICON NEGATIVE] as negative prompt.
+Output 512x512 → downsample to 128x128 for the atlas.
+Filename convention: engine-ready/icons/skill_<id>.png
+
+--- 1. skill_hellbolt.png — "BOLT OF THE PYRE" (Hellfire projectile) ---
+a single hurled bolt of orange hellfire shaped like a burning brand or funeral
+torch, streaking diagonally, trailing embers, molten core with a charred
+obsidian shaft, ACCENT_COLOR=fire orange #FF5A0F,
+[ICON]
+
+--- 2. skill_voidnova.png — "HOLLOWING" (Void nova) ---
+an expanding hollow ring of spectral cyan void energy bursting outward from an
+empty black center, negative-space sphere, rippling concentric shockwave,
+ACCENT_COLOR=spectral cyan #4DD9E6,
+[ICON]
+
+--- 3. skill_ritual.png — "RITE OF THE DRAWN CIRCLE" (consecrated ground) ---
+an occult summoning circle drawn on black marble floor seen at a slight angle,
+concentric engraved rings with geometric sigil-script, glowing violet from
+within the grooves, ceremonial and precise, ACCENT_COLOR=occult violet #8C26F2,
+[ICON]
+
+--- 4. skill_shades.png — "SUMMON INDEX-SHADES" (minions) ---
+three small hooded clerk-wraiths rising in formation, each carrying a floating
+ledger page, tattered robes dissolving into smoke at the hem, faceless,
+bone-white edges on near-black forms, ACCENT_COLOR=crimson,
+[ICON]
+
+--- 5. skill_hexbeam.png — "SENTENCE OF UNMAKING" (channeled beam) ---
+a narrow continuous beam of violet hex energy firing left to right, the beam
+made of tiny falling judicial script and unraveling threads, sharp parallel
+edges, ACCENT_COLOR=occult violet #8C26F2,
+[ICON]
+
+--- 6. skill_ripdash.png — "RIP THROUGH" (movement attack) ---
+a horizontal tear ripped through the fabric of space, jagged slash opening onto
+white-hot nothingness, motion streaks trailing behind it, violent and fast,
+ACCENT_COLOR=bone white with violet fringe,
+[ICON]
+
+--- 7. skill_unravel.png — "CURSE OF UNRAVELLING" (curse, applies discord) ---
+a knot of dark thread coming undone, strands peeling away and fraying into the
+air, a small violet eye-sigil at the knot's center, ACCENT_COLOR=occult violet,
+[ICON]
+
+--- 8. skill_idol.png — "OBSIDIAN IDOL" (totem that spits fire) ---
+a squat carved obsidian idol totem planted in the ground, faceted hexagonal
+base, a single glowing orange mouth-slit spitting a small flame, ceremonial and
+heavy, ACCENT_COLOR=fire orange #FF5A0F,
+[ICON]

@@ -1,0 +1,52 @@
+DEMONICON — SHARED STYLE BLOCKS
+================================
+Append the relevant block to every prompt. Keep it byte-identical across a batch
+so the set looks like one family. Change ONE thing at a time.
+
+--- PALETTE (the game's actual constants) ---
+Void / background   #0A0A0F to #1A1520   (near-black violet)
+Bone / UI text      #D9C9A6              (warm bone white)
+Brimstone           #FF5A0F              (fire orange)
+Hex                 #8C26F2              (occult violet)
+Ichor               #1FF273              (poison green)
+Blood               #BF0D1F              (deep red)
+Gold                #FFCC40              (loot gold)
+Ash                 #29232E              (cold grey-violet)
+
+REALM ACCENTS — one signature emissive per demon:
+  VASSAGO  = crimson       (archive, ledgers, veils, hidden things)
+  ANDRAS   = sickly gold   (schism, discord, broken cathedral, war)
+  BUER     = spectral cyan (wheel, garden, blight and bloom, healing)
+
+--- [ICON] — for all UI icons (skills, sigils, statuses, items, currency) ---
+dark fantasy occult game icon, single centered object, isolated on pure black
+background, flat shading with strong rim light, bold readable silhouette,
+obsidian and black marble materials, ACCENT_COLOR emissive glow, bone-white
+highlights, high contrast, subtle bloom, centered square composition, crisp
+edges, no text, no letters, no watermark, no border, no frame
+
+--- [ICON NEGATIVE] (for SD/SDXL/ComfyUI negative prompt field) ---
+text, letters, words, watermark, signature, border, frame, ui, drop shadow,
+photorealistic, cluttered background, multiple objects, blurry, jpeg artifacts,
+low contrast, washed out, cute, chibi, gore, blood splatter, horror
+
+--- [PORTRAIT] — bosses, demon busts ---
+dark fantasy occult portrait, infernal nobility, regal and composed not
+monstrous, black marble and obsidian regalia, ACCENT_COLOR emissive glow from
+within, bone-white accents, near-black background, dramatic rim lighting,
+painterly but clean, strong silhouette, cosmic bureaucracy aesthetic, no text,
+no watermark
+
+--- [KEYART] — marketing illustration ---
+dark fantasy occult ARPG key art, isometric diorama, near-black cathedral-archive
+interior, black marble and obsidian architecture, ritual machinery, ACCENT_COLOR
+emissive light as the only light source, heavy bloom, hundreds of small glowing
+projectiles, dramatic scale, cinematic, stylized flat-shaded 3D look, no text,
+no watermark, no logo
+
+--- HARD RULES ---
+* NOT horror. This is infernal *nobility* and *cosmic bureaucracy*. Elegant,
+  ceremonial, administrative-occult. No gore, no jump-scare imagery.
+* Light is information. If something glows, it means something.
+* Everything must read as a silhouette at 48 px. Squint test every icon.
+* Never bake UI frames/borders into an icon — the engine draws those.
