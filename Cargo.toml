@@ -26,7 +26,7 @@ goetia_audio = { path = "crates/goetia_audio" }
 goetia_render = { path = "crates/goetia_render" }
 goetia = { path = "crates/goetia" }
 
-glam = { version = "0.29", features = ["serde", "bytemuck"] }
+glam = { version = "0.33", features = ["serde", "bytemuck"] }
 serde = { version = "1", features = ["derive"] }
 ron = "0.8"
 # default-features off: no getrandom/runtime-rng — deterministic hasher keys,
