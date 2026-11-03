@@ -12,3 +12,7 @@ demonicon/saves/
 .DS_Store
 Thumbs.db
 *.swp
+
+# Raw asset downloads (scratch). engine-ready/ IS tracked.
+assets/incoming/*
+!assets/incoming/.gitkeep

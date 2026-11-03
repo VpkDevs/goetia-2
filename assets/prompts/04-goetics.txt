@@ -1,0 +1,56 @@
+BATCH 04 — GOETIC UNIQUE ITEM ICONS (12)
+The game's trophies. Highest item-art priority. Each is a NAMED artifact with
+lore. 512x512 -> 128x128. Append [ICON].
+Filename: engine-ready/icons/goetic_<id>.png
+
+ 1. goetic_second_sorrow.png   — SECOND SORROW OF THE LEDGER (Relic)
+    a mourning-black ledger book bound in iron, weeping a single line of light from
+    its closed pages, a second identical ledger faintly ghosted behind it,
+    ACCENT=crimson. Lore: all damage dealt twice, one second apart.
+
+ 2. goetic_crown_fires.png     — CROWN OF ALL FIRES (Armor)
+    a blackened iron crown whose every point is a burning flame tongue, molten
+    inner rim, ACCENT=fire orange. Lore: all your damage becomes hellfire.
+
+ 3. goetic_patient_flame.png   — THE PATIENT FLAME (Ring)
+    a plain dark band holding one perfectly still, unwavering candle-flame that
+    clearly will never go out, ACCENT=fire orange. Lore: ignites never expire.
+
+ 4. goetic_open_vein.png       — THIRST OF THE OPEN VEIN (Ring)
+    a barbed crimson ring with a small open wound-slit dripping one bead of blood,
+    ACCENT=blood red #BF0D1F. Lore: dodge has no cooldown, costs life.
+
+ 5. goetic_basilisk.png        — BASILISK'S REGARD (Weapon)
+    a slender obsidian dagger whose pommel is a single unblinking reptilian eye,
+    stone creeping up the blade from the tip, ACCENT=ash grey + violet.
+    Lore: your crits petrify.
+
+ 6. goetic_standing_stones.png — LITURGY OF STANDING STONES (Relic)
+    three upright monolith stones in a tight circle on consecrated ground, faint
+    golden glow pooling at their base, ACCENT=gold. Lore: stillness consecrates.
+
+ 7. goetic_choir_voice.png     — VOICE OF THE CHOIR (Relic)
+    a hollow bone-white mask with an open singing mouth, three smaller identical
+    masks echoing behind it, ACCENT=violet. Lore: servants inherit your reactions.
+
+ 8. goetic_counting_mouth.png  — MOUTH THAT COUNTS (Weapon)
+    a ceremonial mace whose head is a fanged mouth mid-count, five tally marks
+    carved into the haft, ACCENT=violet. Lore: every 5th cast detonates.
+
+ 9. goetic_hunger_wheel.png    — HUNGER WHEEL (Armor)
+    a spiked iron carriage-wheel worn as a breastplate, spinning faster where it
+    has fed, teeth on the inner rim, ACCENT=spectral cyan. Lore: kills frenzy you.
+
+10. goetic_beckoning_ledger.png — BECKONING LEDGER (Armor)
+    an open account-book worn across the chest, its pages fanning outward and
+    pulling small golden coins toward it through the air, ACCENT=gold.
+    Lore: loot crawls to you.
+
+11. goetic_tenth_echo.png      — TENTH ECHO (Weapon)
+    a thin ritual blade repeated ten times in receding ghost-images behind
+    itself, the tenth brightest, ACCENT=violet. Lore: crits echo your cast.
+
+12. goetic_small_gods.png      — DEBT OF SMALL GODS (Ring)
+    a crude iron ring strung with a dozen tiny carved idol-charms, each a
+    different little deity, all watching, ACCENT=spectral cyan.
+    Lore: picking up loot detonates a void nova.
