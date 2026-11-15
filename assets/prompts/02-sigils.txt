@@ -1,0 +1,30 @@
+BATCH 02 — SIGIL ICONS (20)
+Sigils are ABSTRACT OCCULT GLYPHS. Generate as WHITE-ON-BLACK monochrome so the
+engine can tint them per-state (socketed / empty / hover). 512x512 -> 96x96.
+Append [ICON] but override ACCENT_COLOR=pure bone white #D9C9A6.
+Filename: engine-ready/icons/sigil_<id>.png
+
+TIP: these tile beautifully as a 4x5 contact sheet. Generate 4 at a time with
+"a sheet of four distinct occult glyphs, evenly spaced, on pure black" then
+slice with ImageMagick (see GENERATION_GUIDE step 6).
+
+ 1. sigil_echo_minor   — SIGIL OF THE SECOND VOICE: two nested identical glyphs, one smaller and fainter behind the other, echo motif
+ 2. sigil_echo_major   — SIGIL OF THE CHOIR: five concentric repeating arcs radiating like layered voices
+ 3. sigil_brimstone    — SIGIL OF BRIMSTONE: an alchemical sulfur symbol reworked as a downward triangle over a cross, cracked and burning
+ 4. sigil_hexwright    — SIGIL OF THE HEXWRIGHT: an interlocking hexagram inside a circle, drafted like an engineer's schematic
+ 5. sigil_voidhollow   — SIGIL OF THE HOLLOW: a perfect circle with its center punched out into absolute void, thin ring only
+ 6. sigil_splinter     — SIGIL OF SPLINTERS: one line fracturing into three diverging shards
+ 7. sigil_lance        — SIGIL OF THE LANCE: a single long piercing arrow-glyph passing clean through three stacked bars
+ 8. sigil_orbitals     — SIGIL OF ORBIT: three small spheres orbiting a central point on elliptical rings
+ 9. sigil_vast         — SIGIL OF THE VAST: an expanding series of nested arcs opening outward, wide and slow
+10. sigil_rapid        — SIGIL OF HASTE: three sharp parallel forward-slashes with motion taper
+11. sigil_heavy        — SIGIL OF THE ANVIL: a heavy squat anvil glyph with a downward force arrow
+12. sigil_swift        — SIGIL OF THE ARROW: a lean streamlined arrowhead with trailing speed lines
+13. sigil_lingering    — SIGIL OF THE LONG HOUR: an hourglass glyph with slow-falling sand, elongated
+14. sigil_arsonist     — SIGIL OF THE ARSONIST: a struck match crossed with a flame tongue
+15. sigil_blighted     — SIGIL OF THE ROT: a decaying spiral with spore dots breaking off its outer edge
+16. sigil_petrifier    — SIGIL OF THE STONE EYE: an eye whose pupil is a cracked faceted gemstone
+17. sigil_discordant   — SIGIL OF DISCORD: two opposed arrows curving to strike each other
+18. sigil_detonator    — SIGIL OF THE DETONATOR: a compressed circle mid-burst, radiating fracture lines outward
+19. sigil_gravemind    — SIGIL OF THE GRAVEMIND: a skull glyph reduced to pure geometry, with a rising spiral above it
+20. sigil_martyr       — SIGIL OF THE MARTYR: a pierced heart glyph radiating a wide protective burst

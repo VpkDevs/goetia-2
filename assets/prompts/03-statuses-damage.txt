@@ -1,0 +1,18 @@
+BATCH 03 — STATUS + DAMAGE-TYPE ICONS (10)
+These are read MID-COMBAT UNDER PRESSURE. Maximum silhouette clarity. Simpler is
+better. 512x512 -> 64x64. These must be unmistakable at 24 px.
+Filename: engine-ready/icons/status_<id>.png / dmg_<type>.png
+
+--- DAMAGE TYPES (4) — flat emblem, single shape, no scene ---
+1. dmg_physical.png  — a cracked bone-white chevron / impact wedge, ACCENT=bone #D9C9A6
+2. dmg_hellfire.png  — a single clean flame tongue, ACCENT=fire orange #FF5A0F
+3. dmg_hex.png       — a six-pointed occult star with an eye at center, ACCENT=violet #8C26F2
+4. dmg_void.png      — a hollow circle swallowing its own edge, ACCENT=spectral cyan #4DD9E6
+
+--- STATUSES (6) — must differ from each other at a glance ---
+5. status_ignite.png     — a burning ember mote with three rising sparks, orange, suggests spreading, ACCENT=#FF5A0F
+6. status_hexmark.png    — a violet crosshair-sigil branded onto a surface, target-like, suggests "next hit lands harder", ACCENT=#8C26F2
+7. status_discord.png    — two crossed blades pointing at each other, deep red, suggests infighting, ACCENT=#BF0D1F
+8. status_blight.png     — a dripping poison droplet with a spore ring, sickly green, ACCENT=#1FF273
+9. status_petrify.png    — a fractured stone cube mid-shatter, grey with hairline cracks, ACCENT=ash grey #29232E with bone edges
+10. status_consecrate.png — a golden ground-circle with an upward blessing ray, ACCENT=gold #FFCC40

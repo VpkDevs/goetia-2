@@ -1,0 +1,35 @@
+BATCH 05 — GENERIC GEAR BASE ICONS + CURRENCY (17)
+Non-unique items get PROCEDURAL NAMES from naming.ron (16 adjectives x 4 nouns
+per slot, e.g. "ASHEN ATHAME"). You cannot draw every combination — you draw the
+4 NOUNS per slot and let rarity color/frame them in-engine.
+512x512 -> 128x128. Append [ICON], ACCENT=bone white (rarity tints in-engine).
+Filename: engine-ready/icons/gear_<slot>_<noun>.png
+
+--- WEAPON (4) ---
+ 1. gear_weapon_athame.png   — a slim ceremonial ritual dagger, double-edged, plain obsidian handle
+ 2. gear_weapon_scourge.png  — a multi-tail flail whip with small iron weights on each cord
+ 3. gear_weapon_censer.png   — a hanging incense censer on chains, perforated metal sphere, faint smoke
+ 4. gear_weapon_brand.png    — a long iron branding rod, sigil-shaped hot tip
+
+--- ARMOR (4) ---
+ 5. gear_armor_shroud.png    — a hooded funeral shroud, empty, hanging
+ 6. gear_armor_cuirass.png   — a segmented blackened breastplate, front view
+ 7. gear_armor_vestment.png  — an ornate ecclesiastical robe with a stiff embroidered collar
+ 8. gear_armor_pall.png      — a heavy draped coffin-cloth with weighted corners
+
+--- RELIC (4) ---
+ 9. gear_relic_idol.png       — a small squat carved stone idol figure
+10. gear_relic_ledger.png     — a closed leather account book with an iron clasp
+11. gear_relic_phylactery.png — a small hinged reliquary locket on a chain
+12. gear_relic_seal.png       — a wax seal stamp with an ornate handle
+
+--- RING (4) ---
+13. gear_ring_band.png    — a plain heavy metal band, slightly worn
+14. gear_ring_signet.png  — a signet ring with an engraved flat face
+15. gear_ring_coil.png    — a ring made of one wire coiled three times
+16. gear_ring_knot.png    — a ring formed from an interwoven eternal knot
+
+--- CURRENCY (1) — appears in HUD constantly ---
+17. currency_dust.png — CRAFTING DUST: a small conical pile of fine glittering
+    ash-grey powder with faint gold motes rising from it, the residue of
+    shattered items, ACCENT=gold #FFCC40
